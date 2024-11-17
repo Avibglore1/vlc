@@ -12,7 +12,11 @@ Agenda: VLC-2
 * How can you use browser to play what the user has provided
 * Volume, Speed Manipulation
 
-
+Agenda: VLC-3
+* Volume and speed manipulation
+* showing messages-> toast
+* controls
+* Deploy github
 
 Pending:
 * sticky
